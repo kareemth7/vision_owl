@@ -10,7 +10,7 @@
       "type": "dart",
       "toolArgs": [
         "--dart-define",
-        "API_KEY=AIzaSyBt1QBWxT_9F_C6DtdwC_IlmGF1Cf62iEY"
+        "API_KEY=PutYourAPIKeyHere"
       ]
     },
     {

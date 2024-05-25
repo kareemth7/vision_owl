@@ -6,7 +6,7 @@ import 'package:google_generative_ai/google_generative_ai.dart';
 import 'package:flutter_tts/flutter_tts.dart';
 
 const String _apiKey = String.fromEnvironment('API_KEY',
-    defaultValue: "AIzaSyBt1QBWxT_9F_C6DtdwC_IlmGF1Cf62iEY");
+    defaultValue: "YourAPIKey");
 
 class ChatScreen extends StatefulWidget {
   const ChatScreen({super.key, required this.title, required this.prompt});
